@@ -1,0 +1,41 @@
+table {
+  width: 100%;
+}
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 0 10px;
+}
+.dark-green,
+#dark-green {
+  background-color: green;
+  color: white;
+}
+.maroon {
+  background-color: maroon;
+  color: white;
+}
+.green {
+  background-color: rgb(0, 255, 0);
+}
+.purple {
+  background-color: purple;
+  color: white;
+}
+.red {
+  background-color: red;
+}
+.yellow {
+  background-color: yellow;
+}
+.marine,
+#marine {
+  background-color: aquamarine;
+}
+.aqua,
+#aqua {
+  background-color: aqua;
+}
+.gradient {
+  background-image: linear-gradient(to bottom, yellow, red);
+}
